@@ -9,7 +9,7 @@ name: Walter Xia
 description: Student at the University of Texas at Austin
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://avatars3.githubusercontent.com/u/14118074?v=3&u=1cb3a73293134206d2ed81b5e3f39e9589301531&s=140
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: swilery@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: swilery/swilery.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
