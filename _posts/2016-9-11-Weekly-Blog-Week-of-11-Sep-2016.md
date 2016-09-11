@@ -25,7 +25,7 @@ Next Tuesday, the second project commences. Both my partner and I agreed to get 
 
 ###### Overall Experience
 
-The following statement may or may not be correct, but Professor Glenn Downing is the architect of CS 373. There is an approach to teaching that is truly interesting and deserves a mention: The coding examples presented in lectures are runnable. That is, students do not have to take at face value that the code presented is correct or even type up the examples themselves and run them to verify their correctness. All coding examples are presented on Github, and are readily runnable. Any language feature presented in lecture are easily verifiable by the students just by pulling, compiling, and running. Of course Downing is not the only professor that provides real compilable code but he is unique in the consistency and in the organized-fashion in which he does it.
+The following statement may or may not be correct, but Professor Glenn Downing is the architect of CS 373. There is an approach to his teaching that is truly interesting and deserves a mention: The coding examples presented in lectures are runnable. That is, students do not have to take at face value that the code presented is correct or even type up the examples themselves and run them to verify their correctness. All coding examples are presented on Github, and are readily runnable. Any language feature presented in lecture are easily verifiable by the students just by pulling, compiling, and running. Of course Downing is not the only professor that provides real compilable code but he is unique in the consistency and in the organized-fashion in which he does it.
 
 To the confused reader: Fraij is my professor but Downing is the architect (maybe).
 
