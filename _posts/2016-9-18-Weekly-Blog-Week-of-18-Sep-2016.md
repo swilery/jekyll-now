@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Weekly Blog: Week of 18 Sep 2016'
