@@ -13,7 +13,7 @@ In addition, there will be the usual conclusion with my overall experience and a
 
 ###### What did I do this past week?
 
-My partner and I have been working on Netflix the first part of the week. We were able to get it done on Wednesday pretty smoothly. Unfortunately, we received a message Friday morning stating that the Git SHA we submitted did not match the last one recorded by Travis. My partner investigated and found out that Travis built our commits in a slightly different order the ones on Github. Alas, a resubmission was requested. 
+My partner and I have been working on Netflix the first part of the week. We were able to get it done on Wednesday pretty smoothly. Unfortunately, we received a message Friday morning stating that the Git SHA we submitted did not match the last one recorded by Travis. My partner investigated and found out that Travis built our commits in a slightly different order than ones on Github. Alas, a resubmission was requested. 
 
 ###### What is in my way?
 
@@ -25,7 +25,7 @@ Ideally, I will begin preparing for the upcoming exam. However, the reality is m
 
 ###### Overall Experience
 
-Many people previously have mentioned that this course emphasizes on obtaining first-hand experience on some of the tools used on industry at the moment. This provides valuable skills, the benefits of which should not be taken lightly. However, the flip side to this characteristic is that since our grades are tied to the functionality of these tools, an error in their execution or an unexpected side-effect may inadvertently hurt our grades. Please be aware of this fact and expect the unexpected.     
+Many people previously have mentioned that this course emphasizes on obtaining first-hand experience on some of the tools used in industry at the moment. This provides valuable skills, the benefits of which should not be taken lightly. However, the flip side to this characteristic is that since our grades are tied to the functionality of these tools, an error in their execution or an unexpected side-effect may inadvertently hurt our grades. Please be aware of this fact and expect the unexpected.     
 
 ###### Tip-of-the-Week: 
 > This is a pretty sweet IDE for writing X86 code.
