@@ -28,7 +28,6 @@ Next week, project 3 will be officially released. I have just successfully estab
 The big event last week was the Exam. I would say that the exam was fairly written. The announcements Dr. Fraij made in class about the exam were accurate descriptions of what the exam would be like. The only thing that I am a bit disappointed in is that I wasn't able to prepare for it as much as I wanted. This phenomenon will very likely occur with my future exams in this and in my other courses. Personally in the past, I usually would have been able to dedicate a large amount of time to make a multi-pass over the exam material. However, I think last year would be the last one in which I will be able to do that. This is not an indication of anything related to CS373 in particular but an overall comment about taking multiple time-intensive courses. Sometimes sacrifices will have to be made on critical tasks.  
 
 ###### Tip-of-the-Week:
-
 > If you are interested in Compilers, there is an infrastructure just for you.
 
 Use will probably hate me for this: <http://llvm.org/>
