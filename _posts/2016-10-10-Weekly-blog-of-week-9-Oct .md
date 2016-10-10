@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Weekly blog of week 9 Oct'
