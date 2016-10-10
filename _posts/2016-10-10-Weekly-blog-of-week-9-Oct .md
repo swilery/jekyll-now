@@ -30,4 +30,4 @@ The big event last week was the Exam. I would say that the exam was fairly writt
 ###### Tip-of-the-Week:
 > If you are interested in Compilers, there is an infrastructure just for you.
 
-Use will probably hate me for this: <http://llvm.org/>
+You will probably hate me for this: <http://llvm.org/>
