@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Weekly Blog, week 6 Nov'
