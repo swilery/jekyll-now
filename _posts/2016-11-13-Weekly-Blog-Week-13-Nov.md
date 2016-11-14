@@ -13,7 +13,7 @@ In addition, there will be the usual conclusion with my overall experience and a
 
 ###### What did I do this past week?
 
-Project 5 was officially released on Tuesday. Even though we began work on it pretty early, not much progress has been made. What we did manage to do it set up a auto-updates for our database. 
+Project 5 was officially released on Tuesday. Even though we began work on it pretty early, not much progress has been made. What we did manage to do it set up auto-updates for our database. 
 
 ###### What is in my way?
 
